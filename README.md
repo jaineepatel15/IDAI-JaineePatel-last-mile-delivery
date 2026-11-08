@@ -1,16 +1,16 @@
 # IDAI-JaineePatel-last-mile-delivery
 Interactive Streamlit dashboard analyzing last-mile delivery performance by weather, traffic, vehicle type, area, and product category.
 
-Overview
+Overview:
 An interactive Streamlit dashboard (Python, pandas, Plotly) that turns raw last-mile delivery data into clear charts and key metrics. Managers can filter by weather, traffic, vehicle type, area and product category to see what drives delivery delays. It brings the FA-1 storyboard to life as a deployed application.
 
-Objective
+Objective:
 Help delivery managers see where and why delays happen so they can make faster, data-driven decisions. The dashboard answers:
 How do traffic and weather affect delivery time?
 Which vehicle types and areas perform best or worst?
 Which product categories take longest to deliver?
 
-Target Audience
+Target Audience:
 Logistics / delivery managers (primary): monitor performance and allocate resources
 Fleet and operations planners: compare vehicles and plan routes
 Training / HR teams: see how agent rating and age relate to speed
@@ -28,7 +28,7 @@ Static reports are slow to update
 
 How the dashboard helps: cleaned data, five clear charts, live sidebar filters and instant KPIs.
 
-User Research Insights & Survey Summary
+User Research Insights & Survey Summary:
 Replace the [bracketed] values with your own real survey or interview results.
 Method: [e.g., Google Form survey of 15 people]
 Most important factor in delays: [e.g., Traffic 45%, Weather 30%]
